@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525333701771",
+    "project_id": "clean-architecture-android-app",
+    "storage_bucket": "clean-architecture-android-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525333701771:android:c654145039a504444de08e",
+        "android_client_info": {
+          "package_name": "com.gsmcoding.cleanarchitectureandroidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ4DKoILKjD0jVjTyIrmPe4aH1Okkhr90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
